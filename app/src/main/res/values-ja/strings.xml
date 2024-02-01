@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="username">フォロワー</string>
+    <string name="name_list">名前</string>
+    <string name="location_list">location_list</string>
+    <string name="username_detail">ユーザー名の詳細</string>
+    <string name="user_detail">ユーザーの詳細</string>
+    <string name="description_user">説明ユーザー:</string>
+    <string name="search">探す</string>
+    <string name="search_hint">ユーザーを検索</string>
+    <string name="name">名前</string>
+    <string name="followers">フォロワー</string>
+    <string name="following">以下</string>
+    <string name="nav_followers">フォロワー</string>
+    <string name="nav_following">以下</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_followers">フォロワー</string>
+    <string name="tab_following">以下</string>
+    <string name="change_language_settings">言語設定を変更する</string>
+
+    <string name="location">ロケーション</string>
+    <string name="company">会社</string>
+    <string name="repository">リポジトリ</string>
+    <string name="favorite">お気に入りリスト</string>
+    <string name="setting">設定</string>
+    <string name="title_reminder">毎日のリマインダー</string>
+    <string name="reminder_message">Githubでお気に入りのユーザーを見つけましょう</string>
+    <string name="reminder_toast_on">Daily Reminder ON</string>
+    <string name="reminder_toast_off">Daily Reminder OFF</string>
+    <string name="add_user">ユーザーを追加する</string>
+    <string name="to_favorite">お気に入りリストへ</string>
+    <string name="remove_user">削除されたユーザー</string>
+    <string name="from_favorite">お気に入りリストから</string>
+</resources>
